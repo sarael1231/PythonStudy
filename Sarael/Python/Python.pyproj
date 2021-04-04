@@ -22,6 +22,18 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="main.py" />
+    <Compile Include="Study\Study_01.py" />
+    <Compile Include="Study\Study_02.py" />
+    <Compile Include="Study\Study_03.py" />
+    <Compile Include="Study\Study_04.py" />
+    <Compile Include="Study\Study_05.py" />
+    <Compile Include="Study\Study_06.py" />
+    <Compile Include="Study\Study_07.py" />
+    <Compile Include="Study\Study_08.py" />
+    <Compile Include="Study\Study_09.py" />
+    <Compile Include="Study\__init__.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Study\" />
